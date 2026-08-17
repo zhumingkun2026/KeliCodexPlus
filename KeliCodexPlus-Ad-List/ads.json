@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "ads": [
+    {
+      "id": "keli-codexplus",
+      "type": "normal",
+      "title": "Keli CodexPlus",
+      "description": "基于 CodexPlusPlus 二次开发的 AGPL-3.0 开源分支，欢迎 Star、提 Issue 与反馈。",
+      "url": "https://github.com/zhumingkun2026/KeliCodexPlus"
+    }
+  ]
+}
